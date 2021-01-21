@@ -25,5 +25,5 @@
 <b>src :</b> It contains python scripts to train the model.
 </pre>
 <pre>
-<b>submission :</b> It contains submission file that is predicted by trained model.
+<b>submission :</b> It contains submission file.
 </pre>
